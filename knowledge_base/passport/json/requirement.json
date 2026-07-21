@@ -1,0 +1,135 @@
+{
+  "document_title": "Comprehensive Guide to Ethiopian Passport Services",
+  "year": 2026,
+  "application_steps": [
+    {
+      "step_number": 1,
+      "title": "Register & Log In",
+      "description": "Visit the official portal at ethiopianpassportservices.gov.et or use the Digital Invea mobile app. Create an account using a valid email and verify it."
+    },
+    {
+      "step_number": 2,
+      "title": "Fill the Form & Upload Documents",
+      "description": "Select 'New Passport Application'. Fill in personal details exactly as they appear on official government IDs. Scan and upload clear JPEG files of required documents (birth certificate, Kebele ID, etc.) and a digital passport-sized photo with a solid white background."
+    },
+    {
+      "step_number": 3,
+      "title": "Select Location & Book Appointment",
+      "description": "Choose preferred ICS delivery site (e.g., Main Office, Piazza Branch, or regional offices) and select an available date and time slot."
+    },
+    {
+      "step_number": 4,
+      "title": "Make the Payment",
+      "description": "Pay the application fee digitally via CBE Birr, Telebirr, or other integrated banking systems. Keep the digital receipt and print the appointment confirmation page within 3 hours of booking."
+    },
+    {
+      "step_number": 5,
+      "title": "In-Person Biometrics",
+      "description": "Go to the selected ICS office on the appointment day with the printed confirmation, original renewed Kebele ID, and original birth certificate for fingerprint and digital photo capture."
+    }
+  ],
+  "passport_services": [
+    {
+      "service_tier": "Regular Service",
+      "processing_time": "5 to 10 business days",
+      "fee_etb": 5000
+    },
+    {
+      "service_tier": "Urgent Service",
+      "processing_time": "5 business days",
+      "fee_etb": 20000
+    },
+    {
+      "service_tier": "Fast-Track Service",
+      "processing_time": "2 business days",
+      "fee_etb": 25000
+    }
+  ],
+  "urgent_service_criteria": [
+    "An official medical referral letter for treatment abroad.",
+    "An active scholarship letter, university admission, or DV lottery selection.",
+    "A valid emergency business invitation or foreign residence permit."
+  ],
+  "frequently_asked_questions": [
+    {
+      "question": "Can I renew after expiration?",
+      "answer": "Yes. You can renew your passport after it has officially expired. There are no late renewal penalty fees, but you will not be able to book international travel or clear customs until your new passport is processed, printed, and collected."
+    },
+    {
+      "question": "Can I travel with an expired passport?",
+      "answer": "No. Airline boarding rules and international immigration laws require a valid passport with at least six months of remaining validity before your travel date."
+    },
+    {
+      "question": "How long does processing take?",
+      "answer": {
+        "standard_service": "5 to 10 business days from your biometric appointment",
+        "urgent_service": "5 business days",
+        "fast_track_service": "2 business days",
+        "diaspora_service": "2 to 4 weeks if applying from an overseas embassy or consulate"
+      }
+    },
+    {
+      "question": "Can someone else collect my passport?",
+      "answer": "Only under strict legal exceptions. Normally, you must collect your passport in person. However, someone else may collect it on your behalf only if they present an officially authenticated Power of Attorney (Wukilna), your original physical application/payment receipt, and their own valid National ID (Fayda) or passport."
+    },
+    {
+      "question": "Can I apply abroad?",
+      "answer": "Yes. If you are living outside of Ethiopia, you can apply online via the Digital Invea platform (website or mobile app) and complete your biometrics at the nearest designated Ethiopian Embassy or Consulate."
+    },
+    {
+      "question": "Can I change my appointment?",
+      "answer": "Yes, but only under specific limits. You can log back into your portal account before your scheduled date to reschedule your biometrics appointment. You cannot reschedule once your original appointment slot has already passed."
+    },
+    {
+      "question": "Can I cancel my application?",
+      "answer": "You can stop the process, but you cannot get a refund. While you can choose not to attend your biometrics appointment, the fees paid to the ICS are strictly non-refundable."
+    },
+    {
+      "question": "How long is the passport valid?",
+      "answer": {
+        "ages_25_and_above": "10 years",
+        "ages_under_25_including_minors": "5 years"
+      }
+    }
+  ],
+  "operational_and_contact_information": {
+    "digital_portals": {
+      "main_informational_site": "ics.gov.et",
+      "local_passport_application_portal": "ethiopianpassportservices.gov.et",
+      "diaspora_overseas_platform": "digitalinvea.com"
+    },
+    "primary_office_locations_addis_ababa": [
+      {
+        "office_name": "ICS Headquarters",
+        "location": "Near the Gotera Interchange, Kirkos Sub-city, Addis Ababa"
+      },
+      {
+        "office_name": "Consular Services Office",
+        "location": "Arada Subcity (near Piazza/Black Lion area), Addis Ababa"
+      }
+    ],
+    "working_hours": {
+      "monday_through_saturday": "8:30 AM – 10:00 PM (Extended night shifts are dedicated primarily to passport enrollment and distribution processing)",
+      "sundays": "8:30 AM – 6:00 PM",
+      "standard_administrative_departments": "8:30 AM – 5:30 PM, Monday through Friday"
+    },
+    "contact_numbers": {
+      "national_customer_toll_free_helpline": "8133",
+      "headquarters_main_landlines": [
+        "+251 11 157 1899",
+        "+251 11 155 3899"
+      ],
+      "digital_invea_support_whatsapp_desk": [
+        "+251 950 011 057",
+        "+251 950 011 037"
+      ]
+    },
+    "email_addresses": {
+      "general_inquiry_and_administrative_support": [
+        "support@ics.gov.et",
+        "info@ics.gov.et"
+      ],
+      "online_portal_technical_support": "support@digitalinvea.com"
+    }
+  }
+}

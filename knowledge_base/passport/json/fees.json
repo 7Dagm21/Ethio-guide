@@ -1,0 +1,106 @@
+{
+  "document_title": "Ethiopian Passport Service Fees, Payment Methods, and Refund Policy",
+  "passport_service_fees_etb": {
+    "standard_fee": {
+      "new_passport": {
+        "fee": 5000,
+        "processing_time": "5 to 10 business days"
+      },
+      "standard_renewal": {
+        "fee": 5000
+      },
+      "renewal_with_information_correction": {
+        "fee": 12500,
+        "details": "e.g., name, photo, or date of birth updates"
+      }
+    },
+    "urgent_fast_track_fees": {
+      "urgent_service_5_days": {
+        "fee": 20000,
+        "details": "Requires proof of urgent travel"
+      },
+      "fast_track_service_2_days": {
+        "fee": 25000,
+        "details": "Requires proof of urgent travel"
+      }
+    },
+    "replacement_fees": {
+      "standard_lost_passport_replacement": {
+        "fee": 13000,
+        "processing_time": "Regular processing time"
+      },
+      "urgent_lost_passport_replacement": {
+        "urgent_5_day": {
+          "fee": 28000
+        },
+        "fast_track_2_day": {
+          "fee": 33000
+        }
+      },
+      "lost_passport_replacement_with_corrections": {
+        "standard": {
+          "fee": 20500
+        },
+        "fast_track_2_day": {
+          "fee": 40500
+        }
+      },
+      "standard_damaged_passport_replacement": {
+        "fee": 13000
+      }
+    },
+    "child_passport_fee_under_18": {
+      "local_issuance_fees": {
+        "standard_delivery": {
+          "fee": 5000
+        },
+        "urgent_5_day": {
+          "fee": 20000
+        },
+        "fast_track_2_day": {
+          "fee": 25000
+        }
+      },
+      "diaspora_issuance_fees_usd": {
+        "standard_delivery": {
+          "fee_usd": 100
+        },
+        "urgent_2_day_processing": {
+          "fee_usd": 200
+        }
+      }
+    }
+  },
+  "payment_methods": {
+    "payment_window_hours": 3,
+    "local_payments": [
+      "Telebirr",
+      "CBE Birr",
+      "Commercial mobile banking apps"
+    ],
+    "diaspora_payments": {
+      "platform": "Digital Invea portal",
+      "accepted_cards": [
+        "Visa",
+        "Mastercard"
+      ]
+    }
+  },
+  "refund_policy": {
+    "non_refundable_policy": {
+      "status": "strictly non-refundable",
+      "conditions": [
+        "Appointment cancellation",
+        "Failure to show up",
+        "Application rejection due to insufficient or fraudulent documentation"
+      ]
+    },
+    "double_payments": {
+      "exception_details": "If a system glitch causes a double charge for a single application code, a manual correction and refund claim must be submitted.",
+      "required_location": "Main ICS headquarters in Addis Ababa",
+      "required_documents": [
+        "Bank transaction receipts"
+      ]
+    }
+  }
+}

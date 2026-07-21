@@ -1,0 +1,46 @@
+{
+  "passport": {
+    "requirements.md": {
+      "source": "Immigration and Citizenship Service (ICS)",
+      "url": "https://ethiopianpassportservices.gov.et",
+      "language": "English",
+      "description": "The primary digital platform for local Ethiopian passport applications, document uploads, and biometric enrollment bookings."
+    },
+    "fees.md": {
+      "source": "Immigration and Citizenship Service (ICS)",
+      "url": "https://ethiopianpassportservices.gov.et",
+      "language": "English",
+      "description": "Fee schedule detailing standard, urgent, fast-track, replacement, and child passport pricing tiers."
+    },
+    "faq.md": {
+      "source": "Immigration and Citizenship Service (ICS)",
+      "url": "https://ics.gov.et/information",
+      "language": "English",
+      "description": "The official information hub of the ICS containing policy guidelines, renewal procedures, and validity rules."
+    },
+    "appointment.md": {
+      "source": "Immigration and Citizenship Service (ICS)",
+      "url": "https://ethiopianpassportservices.gov.et",
+      "language": "English",
+      "description": "Rules and criteria regarding biometric queue management, scheduling, and mandatory physical document packages."
+    },
+    "payment.md": {
+      "source": "Immigration and Citizenship Service (ICS)",
+      "url": "https://ethiopianpassportservices.gov.et",
+      "language": "English",
+      "description": "Standardized online payment protocol integration details (Telebirr, CBE Birr, and Derash/Flygate gateways)."
+    },
+    "office_info.md": {
+      "source": "Immigration and Citizenship Service (ICS)",
+      "url": "https://ics.gov.et/contact",
+      "language": "English",
+      "description": "Official contact directory containing headquarter locations, operating schedules, support desks, and national hotlines."
+    },
+    "photo_requirement.md": {
+      "source": "Immigration and Citizenship Service (ICS) / Digital Invea",
+      "url": "https://digitalinvea.com",
+      "language": "English",
+      "description": "Official biometric passport photo capture standards (dimension specifications, lighting, backgrounds, and facial criteria) utilized by both local and diaspora application portals."
+    }
+  }
+}

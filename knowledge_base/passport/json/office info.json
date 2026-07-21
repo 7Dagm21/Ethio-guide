@@ -1,0 +1,60 @@
+{
+  "document_title": "Ethiopian Immigration and Citizenship Service (ICS): Contact & Locations",
+  "digital_portals": {
+    "main_informational_site": "ics.gov.et",
+    "local_passport_application_portal": "ethiopianpassportservices.gov.et",
+    "diaspora_overseas_platform": "digitalinvea.com"
+  },
+  "primary_office_locations_addis_ababa": [
+    {
+      "office_name": "ICS Headquarters (Gotera)",
+      "location": "Near the Gotera Interchange, Kirkos Sub-city, Addis Ababa"
+    },
+    {
+      "office_name": "Foreigner’s and Consular Services Department",
+      "location": "Arada Sub-city (near Piazza / Black Lion area), Addis Ababa"
+    }
+  ],
+  "regional_branch_cities": [
+    "Hawassa",
+    "Adama",
+    "Dire Dawa",
+    "Bahir Dar",
+    "Mekelle",
+    "Gondar"
+  ],
+  "working_hours": {
+    "passport_operations_extended_hours": {
+      "days_monday_through_saturday": {
+        "hours": "8:30 AM – 10:00 PM",
+        "notes": "Extended night shifts are dedicated primarily to passport enrollment and distribution processing"
+      },
+      "days_sunday": {
+        "hours": "8:30 AM – 6:00 PM"
+      }
+    },
+    "standard_administrative_departments": {
+      "days": "Monday through Friday",
+      "hours": "8:30 AM – 5:30 PM",
+      "notes": "Applies to standard government shifts and non-passport services"
+    }
+  },
+  "contact_numbers": {
+    "national_customer_toll_free_helpline": "8133",
+    "headquarters_main_landlines": [
+      "+251 11 157 1899",
+      "+251 11 155 3899"
+    ],
+    "digital_invea_support_whatsapp_desk": [
+      "+251 950 011 057",
+      "+251 950 011 037"
+    ]
+  },
+  "email_addresses": {
+    "general_inquiry_and_administrative_support": [
+      "support@ics.gov.et",
+      "info@ics.gov.et"
+    ],
+    "online_portal_technical_support": "support@digitalinvea.com"
+  }
+}

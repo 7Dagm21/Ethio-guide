@@ -1,0 +1,61 @@
+{
+  "new_passport": [
+    "National ID (Fayda)",
+    "Original Authenticated Birth Certificate",
+    "Renewed Kebele ID",
+    "Passport Photo",
+    "Payment Receipt",
+    "Appointment Confirmation Page"
+  ],
+  "passport_renewal": [
+    "National ID (Fayda)",
+    "Previous Passport",
+    "Renewed Kebele ID",
+    "Passport Photo",
+    "Payment Receipt",
+    "Appointment Confirmation Page"
+  ],
+  "passport_renewal_with_corrections": [
+    "National ID (Fayda)",
+    "Previous Passport",
+    "Renewed Kebele ID",
+    "Official Supporting Documents for Correction",
+    "Passport Photo",
+    "Payment Receipt",
+    "Appointment Confirmation Page"
+  ],
+  "lost_passport": [
+    "National ID (Fayda)",
+    "Original Stamped Police Report",
+    "Copy of Lost Passport",
+    "Renewed Kebele ID",
+    "Passport Photo",
+    "Payment Receipt",
+    "Appointment Confirmation Page"
+  ],
+  "damaged_passport": [
+    "National ID (Fayda)",
+    "Damaged Passport Booklet",
+    "Renewed Kebele ID",
+    "Passport Photo",
+    "Payment Receipt",
+    "Appointment Confirmation Page"
+  ],
+  "child_passport_under_18": [
+    "Original Authenticated Birth Certificate of Minor",
+    "Signed Parental Consent Form",
+    "Parent or Guardian Renewed Kebele ID or Passport",
+    "Court Guardianship Documents",
+    "Passport Photo",
+    "Payment Receipt",
+    "Appointment Confirmation Page"
+  ],
+  "urgent_fast_track_addons": [
+    "Medical Referral Letter",
+    "Scholarship Letter",
+    "University Admission Letter",
+    "DV Lottery Selection Confirmation",
+    "Emergency Business Invitation",
+    "Foreign Residence Permit"
+  ]
+}

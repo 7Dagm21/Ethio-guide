@@ -1,0 +1,89 @@
+# =========================
+# Python
+# =========================
+
+# Virtual environment
+backend/.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python package/build files
+*.egg-info/
+dist/
+build/
+
+
+# =========================
+# Environment Variables
+# =========================
+
+# API keys and secrets
+.env
+backend/.env
+frontend/.env
+
+
+# =========================
+# Frontend (React / Node)
+# =========================
+
+# Node dependencies
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# =========================
+# AI / Machine Learning
+# =========================
+
+# ChromaDB generated database
+vector_db/
+
+# Model cache files
+.cache/
+models/
+
+
+# =========================
+# User Generated Files
+# =========================
+
+# Uploaded documents/images
+uploads/
+
+# Temporary files
+temp/
+tmp/
+
+
+# =========================
+# Development Tools
+# =========================
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+
+# =========================
+# Operating System
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store

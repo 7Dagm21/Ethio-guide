@@ -1,0 +1,59 @@
+.upload-page {
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:30px;
+
+}
+
+
+.upload-hero {
+
+    padding:50px;
+
+    text-align:center;
+
+}
+
+
+.upload-icon {
+
+    color:#2563eb;
+
+}
+
+
+.upload-hero h1 {
+
+    margin:20px 0;
+
+    font-size:36px;
+
+}
+
+
+.upload-hero p {
+
+    color:#6b7280;
+
+}
+
+
+.upload-features {
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:20px;
+
+}
+
+
+.feature-card {
+
+    padding:30px;
+
+}
